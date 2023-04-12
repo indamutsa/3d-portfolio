@@ -1,0 +1,30 @@
+# Dependency directories
+node_modules/
+dist/
+build/
+
+# Environment files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Compiled output
+*.log
+*.tsbuildinfo
+*.css.map
+*.js.map
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Cache and temporary files
+.cache/
+.DS_Store
+*.tmp
+*.bak
+*.swp
